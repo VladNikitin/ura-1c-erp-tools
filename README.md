@@ -28,13 +28,13 @@ Specific 1C:ERP platform and configuration versions have **not yet been confirme
 
 ## Maintainer and authorship / Авторство и сопровождение
 
-Code author: **to be confirmed before publication**.
+Code author: **Ткаченко Юрий** ([tka777@yandex.ru](mailto:tka777@yandex.ru)).
 
-Repository administrator: **to be confirmed before publication**.
+Repository administrator: **VladNikitin**.
 
-Автор кода: **уточнить перед публикацией**.
+Автор кода: **Ткаченко Юрий** ([tka777@yandex.ru](mailto:tka777@yandex.ru)).
 
-Администратор репозитория: **уточнить перед публикацией**.
+Администратор репозитория: **VladNikitin**.
 
 ## License / Лицензия
 
